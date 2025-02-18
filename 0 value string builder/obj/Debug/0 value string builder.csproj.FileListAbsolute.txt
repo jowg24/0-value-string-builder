@@ -1,0 +1,7 @@
+C:\Users\Peter Brown\source\repos\0 value string builder\0 value string builder\bin\Debug\0 value string builder.exe.config
+C:\Users\Peter Brown\source\repos\0 value string builder\0 value string builder\bin\Debug\0 value string builder.exe
+C:\Users\Peter Brown\source\repos\0 value string builder\0 value string builder\bin\Debug\0 value string builder.pdb
+C:\Users\Peter Brown\source\repos\0 value string builder\0 value string builder\obj\Debug\0 value string builder.csproj.AssemblyReference.cache
+C:\Users\Peter Brown\source\repos\0 value string builder\0 value string builder\obj\Debug\0 value string builder.csproj.CoreCompileInputs.cache
+C:\Users\Peter Brown\source\repos\0 value string builder\0 value string builder\obj\Debug\0 value string builder.exe
+C:\Users\Peter Brown\source\repos\0 value string builder\0 value string builder\obj\Debug\0 value string builder.pdb
